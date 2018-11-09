@@ -1,1 +1,1 @@
-# pist
+# pist - miniprojects
