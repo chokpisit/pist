@@ -1,7 +1,7 @@
 import pandas as pd
 import pygal as pg
 
-data = pd.read_csv("bakery.csv")
+data = pd.read_csv("bakery_update.csv")
 bakery = dict()
 
 total = 0
