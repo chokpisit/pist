@@ -19,3 +19,4 @@ for i in range(len(data)):
 			else:
 				dictmonth[month] += 1
 print(dictmonth)
+ 
