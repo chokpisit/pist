@@ -16,3 +16,4 @@ chart = pg.Pie()
 for j in week:
     chart.add(j, week[j]/total*100)
 chart.render_to_file('Week_chart.svg')
+ 
