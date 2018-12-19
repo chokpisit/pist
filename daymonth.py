@@ -164,3 +164,4 @@ for j in month4:
         day = j[0]
         chart.add(day, month4[j])
 chart.render_to_file('Month4_chart.svg')
+
