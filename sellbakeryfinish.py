@@ -17,3 +17,4 @@ bakery_chart = pg.Pie()
 for i in bakery:
     bakery_chart.add(i, bakery[i]/total*100)
 bakery_chart.render_to_file('bakery_chart.svg')
+ 
